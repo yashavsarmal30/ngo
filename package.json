@@ -1,0 +1,30 @@
+{
+  "name": "bif-frontend",
+  "version": "0.1.0",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@vercel/analytics": "^1.1.1",
+    "file-loader": "^6.2.0",
+    "jquery": "^3.7.1",
+    "next": "13.5.6",
+    "next-themes": "^0.2.1",
+    "react": "^18",
+    "react-countup": "^6.5.0",
+    "react-dom": "^18",
+    "react-icons": "^4.12.0",
+    "react-scroll-trigger": "^0.6.14"
+  },
+  "devDependencies": {
+    "@types/node": "20.8.9",
+    "autoprefixer": "^10",
+    "eslint": "^8",
+    "eslint-config-next": "13.5.6",
+    "postcss": "^8",
+    "tailwindcss": "^3"
+  }
+}
